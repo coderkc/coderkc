@@ -16,19 +16,19 @@ I'm İhsan Koca, I'm trying to be a front-end developer
 📈 I am currently learning:
 
 
-<a href="#">
+<a href="#" title="git">
 <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="30" height="30"/> 
-</a>
-<a href="#">
+</a> 
+<a href="#" title="HTML5">
 <img src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-icon.svg" alt="html" width="30" height="30"/>
-</a>
-<a href="#">
+</a> 
+<a href="#" title="CSS3">
 <img src="http://monarchtechnologiesinc.com/assets/images/icons/technologies/logo-css3.png" alt="css" width="35" height="35"/>
-</a>
-<a href="#">
+</a> 
+<a href="#" title="Javascript">
 <img src="https://upload.vectorlogo.zone/logos/javascript/images/239ec8a4-163e-4792-83b6-3f6d96911757.svg" alt="javascript" width="35" height="35"/>
-</a>
-<a href="#">
+</a> 
+<a href="#" title="Bootstrap">
 <img src="https://www.vectorlogo.zone/logos/getbootstrap/getbootstrap-icon.svg" alt="bootstrap" width="30" height="30"/>
 </a>
 
