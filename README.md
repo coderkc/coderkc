@@ -41,7 +41,7 @@ I'm İhsan Koca, I'm trying to be a front-end developer
 
 #### Profile Visits 
 
-![visitors](https://komarev.com/ghpvc/?username=coderkc&color=blue)
+![visitors](https://komarev.com/ghpvc/?username=coderkc&color=orange)
   
  #### Github Stats
 
