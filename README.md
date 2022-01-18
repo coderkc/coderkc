@@ -23,7 +23,7 @@ I'm İhsan.
 <img src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-icon.svg" alt="html" width="30" height="30"/>
 </a> 
 <a href="#" title="CSS3">
-<img src="http://monarchtechnologiesinc.com/assets/images/icons/technologies/logo-css3.png" alt="css" width="35" height="35"/>
+<img src="https://www.vectorlogo.zone/logos/w3_css/w3_css-official.svg" alt="css" width="35" height="35"/>
 </a> 
 <a href="#" title="Javascript">
 <img src="https://upload.vectorlogo.zone/logos/javascript/images/239ec8a4-163e-4792-83b6-3f6d96911757.svg" alt="javascript" width="35" height="35"/>
