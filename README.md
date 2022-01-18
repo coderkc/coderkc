@@ -36,16 +36,18 @@ I'm İhsan.
 
 ---
 
+<br />
+
 <details>
- <summary>Summary Goes Here</summary>
-
-#### Profile Visits 
-
-![visitors](https://komarev.com/ghpvc/?username=coderkc&color=orange)
-  
- #### Github Stats
-
-![coderkc's github stats](https://github-readme-stats.vercel.app/api?username=coderkc&count_private=true&theme=tokyonight&hide=contribs,prs)
-
+<summary>:cyclone: Github Stats</summary>
+<img src="https://github-readme-stats.vercel.app/api?username=coderkc&show_icons=true" >
 </details>
+
+<details>
+<summary>:cyclone:  Most Used Languages</summary>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=coderkc&layout=compact" >
+</details>
+
+
+
 
