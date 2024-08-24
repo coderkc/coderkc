@@ -3,9 +3,9 @@
 📈  I am currently learning:
 
 
-<a href="#" title="git">
+
 <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="30" height="30"/> 
-</a> 
+
 <a href="#" title="HTML5">
 <img src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-icon.svg" alt="html" width="30" height="30"/>
 </a> 
